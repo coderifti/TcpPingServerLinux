@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TcpPingServerLinux": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
